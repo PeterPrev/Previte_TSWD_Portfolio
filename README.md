@@ -8,6 +8,9 @@ My name is Pete Previte and I'm a second year student in Heinz' MISM-BIDA progra
 My main goals for takeaways from this course are to develop a more creative mind when thinking about ways to present data and to hone my skills at understanding what the most important aspects of different datasets are. I am excited to get more experience working with data, especially in creative and innovative ways in which I have not already worked with it.
 
 # Portfolio
+
+[Here is an in-class exercise with King County Data.](KingCountyDemoGraphic.md)
+
 Here is where Assignment 1 will go.
 
 Here is where Assignment 2 will go.
