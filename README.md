@@ -11,7 +11,7 @@ My main goals for takeaways from this course are to develop a more creative mind
 
 [Here is an in-class exercise with King County Data.](KingCountyDemoGraphic.md)
 
-Here is where Assignment 1 will go.
+[Here is where Assignment 1 will go.](dataviz2.md)
 
 Here is where Assignment 2 will go.
 
