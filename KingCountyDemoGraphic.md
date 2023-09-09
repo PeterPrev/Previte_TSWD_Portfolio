@@ -1,5 +1,5 @@
-# Here is my dope data viz for TSWD
+# In-Class Exercise using Flourish
 
-Paragraph about what I did
+here is a chart I made in Flourish tracking covid cases
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/14930039"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
