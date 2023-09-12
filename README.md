@@ -18,6 +18,8 @@ Here you will find all of my work from TSWD to include in-class exercises, homew
 
 [Click here for my Assignment 1 submission.](dataviz2.md)
 
+[Click here for an in-class exercise using Tableau!](tableauInClassExercise.md)
+
 Here is where Assignment 2 will go.
 
 Here is where the Final Project will go.
