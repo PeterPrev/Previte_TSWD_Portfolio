@@ -16,7 +16,7 @@ Here you will find all of my work from TSWD to include in-class exercises, homew
 
 [Click here for in-class exercise with King County Data.](KingCountyDemoGraphic.md)
 
-[Click here for my Assignment 1 submission.](dataviz2.md)
+[Click here for my Visualizing Government Debt assignment submission.](dataviz2.md)
 
 [Click here for an in-class exercise using Tableau!](tableauInClassExercise.md)
 
