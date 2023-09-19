@@ -18,8 +18,12 @@ Here you will find all of my work from TSWD to include in-class exercises, homew
 
 [Click here for my Visualizing Government Debt assignment submission.](dataviz2.md)
 
-[Click here for an in-class exercise using Tableau!](tableauInClassExercise.md)
+[Click here for an in-class exercise using Tableau.](tableauInClassExercise.md)
 
-[Click here for my submission for Assignment 3/4](assignment3And4.md)
+[Click here for my submission for Assignment 3/4.](assignment3And4.md)
 
-Here is where the Final Project will go.
+Click here for my Final Project Part I submssion. 
+
+Click here for my Final Project Part II submssion. 
+
+Click here for my Final Project Part III submssion. 
