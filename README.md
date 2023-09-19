@@ -3,7 +3,7 @@ Peter Previte's Portfolio (alliteration!) for 94870 - Telling Stories with Data
 
 
 # About Me
-My name is Pete Previte and I'm a second year student in Heinz' MISM-BIDA program. I am married with one child and I'm currently in the US Army.
+My name is Pete and I'm a second year student in Heinz' MISM-BIDA program. I am married with one child and I'm currently in the US Army.
 
 
 # What I Hope to Learn
