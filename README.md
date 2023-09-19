@@ -12,7 +12,7 @@ My main goals for takeaways from this course are to develop a more creative mind
 
 # Portfolio
 
-Here you will find all of my work from TSWD to include in-class exercises, homework assignments, and the final project.
+## Here you will find all of my work from TSWD to include in-class exercises, homework assignments, and the final project.
 
 [Click here for in-class exercise with King County Data.](KingCountyDemoGraphic.md)
 
