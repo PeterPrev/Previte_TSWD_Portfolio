@@ -16,7 +16,7 @@ My main goals for takeaways from this course are to develop a more creative mind
 
 [Click here for in-class exercise with King County Data.](KingCountyDemoGraphic.md)
 
-[Click here for my Visualizing Government Debt assignment submission.](dataviz2.md)
+[Click here for my Visualizing Government Debt (assignment 2) submission.](dataviz2.md)
 
 [Click here for an in-class exercise using Tableau.](tableauInClassExercise.md)
 
