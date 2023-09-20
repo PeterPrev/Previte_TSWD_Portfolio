@@ -31,19 +31,19 @@ Few describes usefulness as a subjective score based on the assessment of the ne
 Completeness Score: 4
 Based on Few's description, this chart is only somewhat complete. Titles and labels are correct, but there is not much context provided that help the reader understand if the data is good, bad, expected, unexpected, etc. The data itself is a timeline of month-to-month comparisons, which (if presented well) help the reader see trends over time. There are also pieces of information presented that are perhaps unnessary, such as including both the number value and percentage value in player change, which detracts from the completeness level.
 
-Perceptibility: 4
+Perceptibility Score: 4
 The information is ultimately not presented in a manner that the human eye and brain can perceive with minimal effort. In other words, it is difficult to actually make out specific values for the different bars in the chart because the scale is way too large, the bars are too close to each other, and the bars are far from the axis values. At a zoomed out glance, the reader can understand the point of the chart, but the reader's eyes must move around too much to discern and align numbers with bars.
 
-Truthfulness: 5
+Truthfulness Score: 5
 For the most part, the chart is truthful and represents what it claims. The bars are proportioned and, though difficult to read, they are created to scale given the axis values and the values in the inherent data. The biggest ding to the truthfulness is the "perentage change" piece of data. No where on the chart scale/axis values is a percentage value listed, so the bars representing the percentage change seem to be included in an arbitrary way. That is, we cannot tell by the scale if the percentage bars are accurate because the scale does not include a percentage value at all.
 
-Intuitiveness: 5
+Intuitiveness Score: 5
 The chart is overall intuitive because of its nature as a bar chart and, because of similar points mentioned in the truthfulness section, the bars seem to be proportional and line up with the axis values. A reader can easily understand what the _intent_ of the chart is. Other than the percentage issue mentioned above, the chart is intiuitive and most readers in the chart's target audience would easily be able to understand the goal of the chart.
 
-Aesthetics: 2
+Aesthetics Score: 2
 The aesthetics of this chart are poor, simply put. It is not pleasing to look at because there is just too much going on in too little space. 
 
-Engagement: 3
+Engagement Score: 3
 The only aspect of this chart that is engaging is the fact that readers must stare at it for longer than they should need to in order to line up bars with values and draw conclusions from it. Overall, the chart is plain and uninteresting.
 
 
