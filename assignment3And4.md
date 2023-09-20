@@ -20,3 +20,8 @@ I chose to critique and redesign this data visualization because when I first lo
 
 At first, I wasn't sure what topic I wanted to be the focus for this assignment. I had a couple candidate topics in mind, the first of which is the rise in pickleball growth in the country. As I looked for charts and data around pickleball, I wasn't able to find many charts that were poorly done (which is a good thing in general, but not for this assignment!). Most of the charts I found were quite simple and done in a way that it was easy to understand what the chart was trying to say. I shifted towards a different topic with tons of data, the video game called League of Legends. A simple question I had in mind was: is the playerbase for League of Legends getting bigger or smaller (or staying the same)? I came across the website above relatively quickly and stumbled upon the chart pictured. It showed the data I needed to answer my question, at least in the recent past, but was displayed incredibly poorly. After a bit more searching I was able to find the data used to produce the chart so I decided this would be the focus for this assignment.
 
+
+### Step Two: Critique the Data Visualization
+
+The google form allowed us to explain our overall thoughts and observations about the visualization itself, its primary audience, and the evaluation method. On this page, I'll discuss my justification for each of the criteria in Stephen Few's [Data Visualization Effectiveness Profile.](http://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf)
+
