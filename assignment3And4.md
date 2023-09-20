@@ -68,13 +68,13 @@ Below is the feedback I received on my sketch:
 I think this is a graph of the percent change in players of a game.
 
 - Can you describe to me what this is telling you?
-This is telling me that this game is is experiencing minimal changes in number of players over time, seeing +/- 2% change at most from month to month. The negatives and positives seem to be pretty similar, with maybe slight overall growth of the game.
+This is telling me that this game is experiencing minimal changes in number of players over time, seeing +/- 2% change at most from month to month. The negatives and positives seem to be pretty similar, with maybe slight overall growth of the game.
 
 - Is there anything you find surprising or confusing?
 I’m surprised that the visualization does not tell us which game is in question. Also, because the design uses bars and percent change callouts, it’s not entirely clear how much this game is growing/ shrinking. It takes a lot of effort to compare bar heights, and look at each individual % change value in between the bars. 
 
 - Who do you think is the intended audience for this?
-This is likely intended for consumers of this game; people who are interested in its growth (or lack thereof) over time
+This is likely intended for consumers of this game; people who are interested in its growth (or lack thereof) over time.
 
 - Is there anything you would change or do differently?
 I would find a way to highlight the overall trend (growing or shrinking). 2% could be a massive growth if the population if 20000000, but could be small growth if smaller. Consider overlaying this with a spark line that shows the total number of participants so you can see the overall population change over time. 
@@ -98,3 +98,7 @@ This could just be because its hand drawn, but I think if the y-axis scale was p
 
 - Final Thoughts
 I think the story is that the number of players fluctuates more than what one would expect, why are specific months drawing such large changes? Is it just coincidence?
+
+**Feedback Conclusion**
+
+After reading through the feedback, I noticed both people commented on how they did not know what game/activity the chart is for, at which point I realized that I completely forgot to include the name of the game in the title of the chart. Additionally, there were comments about ways to more accurately capture the trends over time using something like sparklines. I felt like the comment from Person 2 about changing the y-axis to make fluctuations in values more apparent was interesting and will be something I play around with as I create my visualization.
