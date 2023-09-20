@@ -108,6 +108,7 @@ After reading through the feedback, I noticed both people commented on how they 
 
 Below is my final updated visualization.
 
+
 <div class='tableauPlaceholder' id='viz1695241659448' style='position: relative'><noscript><a href='#'><img alt='League of Legends Live Player Count ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWD_Assignment3and4&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='TSWD_Assignment3and4&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;TS&#47;TSWD_Assignment3and4&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1695241659448');                    
@@ -117,3 +118,8 @@ Below is my final updated visualization.
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+
+**Redesign Notes**
+
+My redesign was a combination of my initial sketch and the feedback received from peers in step 4. Specifically, I altered my sketch to utilize my feedback regarding the axes. My initial sketch had the y-axis show the average monthly player count, but I decided to put the percentage change on the y-axis and include the monthly player count as a column label. As in my sketch, I included only the data from the last year as it still tells enough of a story of the changes in player count as it would with all the data from the original. I did away with color in the final sketch because it is easy to see which months had the largest and smallest player count changes as the percentage change is now the value on the y-axis. I altered the title of the visualization to more clearly indicate the game (the title is the same as the orignial visualization). Ultimately, my redesigned visualization is much simpler, easier to look at, and better tells a story than original visualization, allowing the readers to make conclusions and analyses for themselves.
