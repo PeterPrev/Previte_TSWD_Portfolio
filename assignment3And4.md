@@ -41,5 +41,13 @@ Intuitiveness: 5
 The chart is overall intuitive because of its nature as a bar chart and, because of similar points mentioned in the truthfulness section, the bars seem to be proportional and line up with the axis values. A reader can easily understand what the _intent_ of the chart is. Other than the percentage issue mentioned above, the chart is intiuitive and most readers in the chart's target audience would easily be able to understand the goal of the chart.
 
 Aesthetics: 2
+The aesthetics of this chart are poor, simply put. It is not pleasing to look at because there is just too much going on in too little space. 
 
 Engagement: 3
+The only aspect of this chart that is engaging is the fact that readers must stare at it for longer than they should need to in order to line up bars with values and draw conclusions from it. Overall, the chart is plain and uninteresting.
+
+
+### Step 3: Sketch out a Solution
+
+Below is my sketch for how I want to redesign the visualization.
+
