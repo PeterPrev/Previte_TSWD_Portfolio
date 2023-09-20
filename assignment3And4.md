@@ -55,4 +55,46 @@ Below is my sketch for how I want to redesign the visualization.
 ![Step 3 Sketch](Assignment3Sketch.jpg)
 
 
-Here is explanation of sketch.
+For my sketch, I wanted to eliminate what I felt was the most pressing issue with the original visualization: scale. Including both the number of players as well as the month-to-month change in the same chart (while keeping it proportional) makes it impossible with this data to maintain a scale that is visually appealing and easy to read. Additionally, I felt that this chart can still tell its "story" without the extra bars in the bar chart. So, I removed all the bars except for just the number of monthly players. I also included an arrow between bars indicating the percentage change from month-to-month so this information isn't lost from the original visualization. I kept only the data from the past 12 months as I felt the trends are still able to be understood well enough by the target audience going back that far and removing extra months allows the chart to be smaller and more digestible. Finally, I used green to indicate the bar with the highest percent change in players from the previous month and red to indicate the bar with the lowest percent change in players from the previous month.
+
+
+### Step 4: Test the Solution
+
+Below is the feedback I received on my sketch:
+
+**Person 1: Student, mid 20's**
+
+- Can you tell me what you think this is?
+I think this is a graph of the percent change in players of a game.
+
+- Can you describe to me what this is telling you?
+This is telling me that this game is is experiencing minimal changes in number of players over time, seeing +/- 2% change at most from month to month. The negatives and positives seem to be pretty similar, with maybe slight overall growth of the game.
+
+- Is there anything you find surprising or confusing?
+I’m surprised that the visualization does not tell us which game is in question. Also, because the design uses bars and percent change callouts, it’s not entirely clear how much this game is growing/ shrinking. It takes a lot of effort to compare bar heights, and look at each individual % change value in between the bars. 
+
+- Who do you think is the intended audience for this?
+This is likely intended for consumers of this game; people who are interested in its growth (or lack thereof) over time
+
+- Is there anything you would change or do differently?
+I would find a way to highlight the overall trend (growing or shrinking). 2% could be a massive growth if the population if 20000000, but could be small growth if smaller. Consider overlaying this with a spark line that shows the total number of participants so you can see the overall population change over time. 
+
+**Person 2: Student, mid 20's**
+
+- Can you tell me what you think this is?
+This graph shows the number of average players by month. I am unsure of players for what activity. 
+
+- Can you describe to me what this is telling you?
+This tells my that January had the largest increase in players by a substantial margin. 
+
+- Is there anything you find surprising or confusing?
+The fluctuations in player increases/decreases are significant from month to month, why did January increase so much? Why did June decrease so much?
+
+- Who do you think is the intended audience for this?
+Readers who are interested in the sport/activity of discussion.
+
+- Is there anything you would change or do differently?
+This could just be because its hand drawn, but I think if the y-axis scale was percentage decrease, and the bars were labeled with the value of (XX in Hundreds of Millions of Players), the fluctuations would be more apparent. I like how the largest decrease and increase are color coated.
+
+- Final Thoughts
+I think the story is that the number of players fluctuates more than what one would expect, why are specific months drawing such large changes? Is it just coincidence?
