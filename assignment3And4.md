@@ -120,6 +120,8 @@ Below is my final updated visualization.
 </script>
 
 
+
+
 **Redesign Notes**
 
 My redesign was a combination of my initial sketch and the feedback received from peers in step 4. Specifically, I altered my sketch to utilize my feedback regarding the axes. My initial sketch had the y-axis show the average monthly player count, but I decided to put the percentage change on the y-axis and include the monthly player count as a column label. As in my sketch, I included only the data from the last year as it still tells enough of a story of the changes in player count as it would with all the data from the original. I did away with color in the final sketch because it is easy to see which months had the largest and smallest player count changes as the percentage change is now the value on the y-axis. I altered the title of the visualization to more clearly indicate the game (the title is the same as the orignial visualization). Ultimately, my redesigned visualization is much simpler, easier to look at, and better tells a story than original visualization, allowing the readers to make conclusions and analyses for themselves.
