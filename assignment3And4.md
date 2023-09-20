@@ -51,3 +51,8 @@ The only aspect of this chart that is engaging is the fact that readers must sta
 
 Below is my sketch for how I want to redesign the visualization.
 
+
+![Step 3 Sketch](Assignment3Sketch.jpg)
+
+
+Here is explanation of sketch.
