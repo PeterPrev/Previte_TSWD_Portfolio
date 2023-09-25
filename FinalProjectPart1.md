@@ -17,9 +17,9 @@ My data is relatively scattered between many different sources as opposed to one
 
 [2022 Pickleball Fact Sheet](https://usapickleball.org/wp-content/uploads/2021/08/2022-Pickleball-Fact-Sheet-updated-5.5.22.pdf)
 
-[General Statistics 1](https://www.thepickleballdinks.com/post/pickleball-statistics)
+[General Pickleball Statistics 1](https://www.thepickleballdinks.com/post/pickleball-statistics)
 
-[General Statistics 2](https://www.pickleheads.com/blog/pickleball-statistics)
+[General Pickleball Statistics 2](https://www.pickleheads.com/blog/pickleball-statistics)
 
 [Pickleball Participation 2014-2022](https://www.statista.com/statistics/763659/pickleball-participants-us/)
 
