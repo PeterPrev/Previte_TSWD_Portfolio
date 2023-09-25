@@ -10,6 +10,19 @@ To start my presentation, I'll discuss generally what picklball is. Specifically
 
 ## Initial Sketches
 
+Below are a few initial sketches that will be turned into visualizations for the final project. For each of these sketches, data is not shown to scale nor is it fully accurate - the sketches are simply meant to show concepts about generally how data will be presented and the ideas which are being demonstrated.
+
+![Story Arc](project_storyArc.jpg)
+
+This is the story arc that I created during our in-class exercise. It shows the arc that I want the viewer to experience in terms of their feeling towards Pickleball as the presentation goes on. 
+
+![Pickleball Growth](project_pickleballGrowth.jpg)
+
+This sketch depicts the total amount of Pickleball players in the past and present, as well as projected numbers in the future. This will be used during the presentation in some form to show how rapidly Pickleball has risen in popularity and where it is likely to go moving forward. The projected growth will help with the call to action for those currently unfamiliar with the sport.
+
+![Pickleball Pros and Cons](project_prosAndCons.jpg)
+
+This sketch shows some data on what some of the most liked and most disliked things about Pickleball are. These charts will likely be shown separately in the presentation according to where they fit in the story arc, but for simplicity, they are inlcuded together here. 
 
 ## The Data
 
