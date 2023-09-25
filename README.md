@@ -22,7 +22,7 @@ My main goals for takeaways from this course are to develop a more creative mind
 
 [Click here for my submission for Assignment 3/4.](assignment3And4.md)
 
-Click here for my Final Project Part I submssion. 
+[Click here for my Final Project Part I submssion.](FinalProjectPart1.md)
 
 Click here for my Final Project Part II submssion. 
 
