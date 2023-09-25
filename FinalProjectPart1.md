@@ -15,16 +15,16 @@ To start my presentation, I'll discuss generally what picklball is. Specifically
 
 My data is relatively scattered between many different sources as opposed to one large dataset. Because Pickleball is a (relatively) new sport, much of the most recent data collected on player participation is not available for free. However, many journalists that have gotten a hold of that data have published articles containing bits and pieces of it. Some of my data will be a consolidation of the data reported in these articles that I make into a .csv of my own and some of my data will be downloaded directly from various sources (e.g. courts by state data). Below, I will post links to the URLs with data I will be using that I made into my own .csv files.
 
-2022 Pickleball Fact Sheet: https://usapickleball.org/wp-content/uploads/2021/08/2022-Pickleball-Fact-Sheet-updated-5.5.22.pdf
+[2022 Pickleball Fact Sheet](https://usapickleball.org/wp-content/uploads/2021/08/2022-Pickleball-Fact-Sheet-updated-5.5.22.pdf)
 
-General Statistics: https://www.thepickleballdinks.com/post/pickleball-statistics
+[General Statistics](https://www.thepickleballdinks.com/post/pickleball-statistics)
 
-Pickleball Participation 2014-2022: https://www.statista.com/statistics/763659/pickleball-participants-us/
+[Pickleball Participation 2014-2022](https://www.statista.com/statistics/763659/pickleball-participants-us/)
 
-Projected Pickleball Market Size: https://market.us/report/pickleball-market/
+[Projected Pickleball Market Size](https://market.us/report/pickleball-market/)
 
-Demographics and Designated Market Area: https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/03/29/association-pickleball-professionals-participation-data.aspx
+[Demographics and Designated Market Area](https://www.sportsbusinessjournal.com/Daily/Morning-Buzz/2023/03/29/association-pickleball-professionals-participation-data.aspx)
 
-Courts by State: https://public.tableau.com/app/profile/rahul.sista/viz/Pickleball_CourtsByState/CourtsbyState
+[Courts by State](https://public.tableau.com/app/profile/rahul.sista/viz/Pickleball_CourtsByState/CourtsbyState)
 
-Paddle Usage by Pros: https://public.tableau.com/app/profile/shea8107/viz/WhatPickleballPaddlesdotheTopProsUseJuly2023/Info
+[Paddle Usage by Pros](https://public.tableau.com/app/profile/shea8107/viz/WhatPickleballPaddlesdotheTopProsUseJuly2023/Info)
