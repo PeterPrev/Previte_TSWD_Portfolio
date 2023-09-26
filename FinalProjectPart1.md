@@ -43,3 +43,7 @@ My data is relatively scattered between many different sources as opposed to one
 [Courts by State](https://public.tableau.com/app/profile/rahul.sista/viz/Pickleball_CourtsByState/CourtsbyState)
 
 [Paddle Usage by Pros](https://public.tableau.com/app/profile/shea8107/viz/WhatPickleballPaddlesdotheTopProsUseJuly2023/Info)
+
+## Method and Medium
+
+I plan to build my story for the final project using Shorthand as the presentations we saw in class were pretty incredible. I plan to use Tableau (and potentially Flourish) to create most, if not all, of the visualizations that will be included in the final presentation. At this time, I have no plans on using any other mediums for the presentation.
