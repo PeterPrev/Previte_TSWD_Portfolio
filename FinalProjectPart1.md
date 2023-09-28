@@ -44,6 +44,8 @@ My data is relatively scattered between many different sources as opposed to one
 
 [Paddle Usage by Pros](https://public.tableau.com/app/profile/shea8107/viz/WhatPickleballPaddlesdotheTopProsUseJuly2023/Info)
 
+I intend to use my data to show a few things about Pickleball. First, I'll demonstrate the rate of growth Pickleball has had in recent years. I'll likely compare this to other sports, specifically similar sports like tennis, to show that Pickleball's growth is extroardinary. I'll also show data on player demographics, such as age, gender, etc. to give an idea of the types of people that play, when they play, and other cool info. My last focus will be showing data on some of the reasons why Pickleball fans love the sport, and some of the reasons why Pickleball haters dislike it. I'll also show some other cool but less important things, such as paddle types and court dimensions.
+
 ## Method and Medium
 
 I plan to build my story for the final project using Shorthand as the presentations we saw in class were pretty incredible. I plan to use Tableau (and potentially Flourish) to create most, if not all, of the visualizations that will be included in the final presentation. At this time, I have no plans on using any other mediums for the presentation.
