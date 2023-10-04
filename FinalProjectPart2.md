@@ -22,6 +22,9 @@ In order to get well-rounded feedback best suited to help me improve my presenta
 
 | Goal | Questions to Ask |
 |------|------------------|
-| Guage whether the underlying message of my story is clear to the reader | What do you think the message of the presentation is? Would you say there is a "call to action?" If so, what is it? |
+| Determine whether the underlying message of my story is clear to the reader | What do you think the message of the presentation is? Would you say there is a "call to action?" If so, what is it? |
 | Determine if charts and graphs used are clear and help the story | How did you feel about the charts used in the presentation? Were any of the charts particularly helpful in presenting the information? Were any of the charts particularly distracting? |
-|      |                  |
+| Determine if the presentation provided enough background infromation on Pickleball to make the underlying message and the various data points and charts make sense | Do you feel like the presentation provided enough information about Pickleball to where the charts and data points were easy to follow/understand? |
+| Determine if the message of the story is effective (Primary target group) | Do you feel inspired by the presentation to give Pickleball a try? Specifically, do you feel more, less, or about the same level of excitement about Pickleball and learning how to play than you did before the presentation? |
+| Determine if the message of the story is effective (Secondary target group) | Did you know about the some of the different reasons why people dislike Pickleball? Do you feel like these things are problematic and/or fixable issues surrounding the sport? |
+| See if there are any other areas in which the reader is unclear or feels information should be added/taken away to make the presentation more effective | Are there any other aspects of the presentation you felt were particuarly effective or innefective? Are there any parts of the presentation that you felt could have benefited from more information? |
