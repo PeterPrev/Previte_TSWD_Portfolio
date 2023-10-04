@@ -18,3 +18,10 @@ The target audience for my story is two different groups of people: people who h
 
 In order to get well-rounded feedback best suited to help me improve my presentation, I'll be interviewing two individuals in the primary target group (people unfamiliar with Pickleball) and I'll interview one person from the secondary target group (regular Pickleballer). I'll ask some generic questions to each target group, but will also ask individual questions based on the group they fall into.
 
+### Interview Script
+
+| Goal | Questions to Ask |
+|------|------------------|
+|      |                  |
+|      |                  |
+|      |                  |
