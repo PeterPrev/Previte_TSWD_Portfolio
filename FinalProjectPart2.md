@@ -31,4 +31,5 @@ In order to get well-rounded feedback best suited to help me improve my presenta
 
 ### Interview Findings
 
-
+| Questions | Interview 1 (Female, mid-20s, unfamiliar with Pickleball) | Interview 2 (Male, mid-20s, unfamiliar with Pickleball) | Interview 3 (Male, mid-50s, regular Pickleball player) |
+| What do you think the message of the presentation is? Would you say there is a "call to action?" If so, what is it? | 
