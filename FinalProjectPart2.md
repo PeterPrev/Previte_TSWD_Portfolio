@@ -22,6 +22,6 @@ In order to get well-rounded feedback best suited to help me improve my presenta
 
 | Goal | Questions to Ask |
 |------|------------------|
-| knfsdfswerf     |                  |
-|      |                  |
+| Guage whether the underlying message of my story is clear to the reader | What do you think the message of the presentation is? Would you say there is a "call to action?" If so, what is it? |
+| Determine if charts and graphs used are clear and help the story | How did you feel about the charts used in the presentation? Were any of the charts particularly helpful in presenting the information? Were any of the charts particularly distracting? |
 |      |                  |
