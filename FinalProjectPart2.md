@@ -28,3 +28,7 @@ In order to get well-rounded feedback best suited to help me improve my presenta
 | Determine if the message of the story is effective (Primary target group) | Do you feel inspired by the presentation to give Pickleball a try? Specifically, do you feel more, less, or about the same level of excitement about Pickleball and learning how to play than you did before the presentation? |
 | Determine if the message of the story is effective (Secondary target group) | Did you know about the some of the different reasons why people dislike Pickleball? Do you feel like these things are problematic and/or fixable issues surrounding the sport? |
 | See if there are any other areas in which the reader is unclear or feels information should be added/taken away to make the presentation more effective | Are there any other aspects of the presentation you felt were particuarly effective or innefective? Are there any parts of the presentation that you felt could have benefited from more information? |
+
+### Interview Findings
+
+
