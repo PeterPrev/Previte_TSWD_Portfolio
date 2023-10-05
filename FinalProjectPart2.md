@@ -31,9 +31,9 @@ In order to get well-rounded feedback best suited to help me improve my presenta
 
 ### Interview Findings
 
-| Questions | Interview 1 (Female, mid-20s, unfamiliar with Pickleball) | Interview 2 (Male, mid-20s, unfamiliar with Pickleball) | Interview 3 (Male, mid-50s, regular Pickleball player) |
+| Questions | Interview 1 (Maale, Late 20s, Unfamiliar with Pickleball) | Interview 2 (Male, Mid 20s, Unfamiliar with Pickleball) | Interview 3 (Male, Mid-50s, Regular Pickleball Player) |
 | ---- | ---- | ---- | ---- |
-| What do you think the message of the presentation is? Would you say there is a "call to action?" If so, what is it? | 
+| What do you think the message of the presentation is? Would you say there is a "call to action?" If so, what is it? | | | I felt like the message of the presentation was to tell people to get involved in pickleball. It also hinted at experienced pickleball players trying to "avoid" bothering people who don't like pickleball by not doing certain things, but I felt like this wasn't really developed as much as it should have been if this was the "call to action." |
 | How did you feel about the charts used in the presentation? Were any of the charts particularly helpful in presenting the information? Were any of the charts particularly distracting? |
 | Do you feel like the presentation provided enough information about Pickleball to where the charts and data points were easy to follow/understand? |
 | Did you know about the some of the different reasons why people dislike Pickleball? Do you feel like these things are problematic and/or fixable issues surrounding the sport? |
