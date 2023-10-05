@@ -42,7 +42,7 @@ In order to get well-rounded feedback best suited to help me improve my presenta
 
 ### Identified Changes for Part III
 
-| Research synthesis | Anticipated changes for Part III |
+| Research Synthesis | Anticipated Changes for Part III |
 |------------------------------------------|---------------------------------------------------------------------------------|
 | There is room for additional data points, such as comparing the cost of playing pickleball to other similar sports, mentioned in interview 2. | I will use data on the price of equipment such as paddles, pickleballs, and court shoes and compare that to other sports equipment to see if pickleball is more affordable to play. |
 | Both interviews 1 and 2 mentioned it was difficult to see the data source for one of the charts in the presentation. | I will be more clear about showing the sources for information and data. I originally used hyperlinks to show where the information is coming from, but I may add in annotations or some other means to denote the source so the reader can easily access sources. |
