@@ -1,10 +1,12 @@
 # Final Project Part 3
 
+
 ## The Final Data Story
 
 Click [here](https://carnegiemellon.shorthandstories.com/all-about-pickleball/index.html) or the link below to view my final data story on Shorthand: 
 
 https://carnegiemellon.shorthandstories.com/all-about-pickleball/index.html
+
 
 ## Changes Made Since Part II
 
@@ -12,9 +14,11 @@ There were a few primary changes I made to my final data story after part II. Th
 
 Another change I made was in terms of the format of my story. I changed the structure of my story on Shorthand to be more "broken down" by section. My previous story had less introduction and descriptions of the charts I was using to convey my points. For the story, I made a distinct introduction with my audience in mind, then had shorter sections with headers that more clearly explained what the next few paragraphs would be about. I felt that changing the structure in this way helped the clarity of my story and made the flow smoother for my intended audience, those unfamiliar with pickleball. 
 
+
 ## Audience
 
 As mentioned above, my intended primary audience changed slightly form Part II to Part III. Originally, I planned to have two primary audiences: the first was group of people was individuals completely unfamiliar with pickleball, and the second group was people who currently regularly play pickleball and enjoy the sport. As I did my user research and worked on creating my final story, I realized that my story would be much stronger if it were intended only for people unfamiliar with pickleball. This decision was driven by the fact that the majority of the content in my story would be trivial and uninteresting for individuals already familiar with and interested in pickleball. With this new group as my primary audience, I still tried to keep the story somewhat relevant for people who already play pickleball. 
+
 
 ## References
 
@@ -50,3 +54,6 @@ https://pickleballdatabase.com/why-do-tennis-players-hate-pickleball/
 https://www.axios.com/2023/04/07/pickleball-courts-noise-tennis-turf-wars
 
 
+## Final Thoughts
+
+One area of this data story that I think could be improved in the future is the charts for peoples' likes and dislikes about pickleball. Ideally, this data would come from concrete sources like surveys where people answer explicit questions about the things they either like or dislike about the sport. Unfortunately, I wasn't able to find any data like this for this project. However, because these ideas fit well into my story arc, I still wanted to include them in some way, which is why I settled on the method I ultimately used. I found a survey that someone created asking people to respond to questions about why they like pickleball, which would have been great data, but unfortunately I was not able to get access to the results. 
