@@ -5,7 +5,7 @@
 
 Click [here](https://carnegiemellon.shorthandstories.com/all-about-pickleball/index.html) or the link below to view my final data story on Shorthand: 
 
-https://carnegiemellon.shorthandstories.com/all-about-pickleball/index.html
+[https://carnegiemellon.shorthandstories.com/all-about-pickleball/index.html](https://carnegiemellon.shorthandstories.com/all-about-pickleball/index.html)
 
 
 ## Changes Made Since Part II
