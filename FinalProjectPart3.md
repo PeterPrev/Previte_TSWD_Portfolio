@@ -16,6 +16,8 @@ Another change I made was in terms of the format of my story. I changed the stru
 
 As mentioned above, my intended primary audience changed slightly form Part II to Part III. Originally, I planned to have two primary audiences: the first was group of people was individuals completely unfamiliar with pickleball, and the second group was people who currently regularly play pickleball and enjoy the sport. As I did my user research and worked on creating my final story, I realized that my story would be much stronger if it were intended only for people unfamiliar with pickleball. This decision was driven by the fact that the majority of the content in my story would be trivial and uninteresting for individuals already familiar with and interested in pickleball. With this new group as my primary audience, I still tried to keep the story somewhat relevant for people who already play pickleball. 
 
+## Final Design Decisions
+
 ### References
 
 Sites and Threads on the best things about pickleball:
