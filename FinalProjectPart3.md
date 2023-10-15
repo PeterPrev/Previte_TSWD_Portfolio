@@ -23,16 +23,23 @@ As mentioned above, my intended primary audience changed slightly form Part II t
 ## References
 
 Source for the Pickleball Participation Chart
+
+
 https://www.pickleheads.com/blog/pickleball-statistics
 
-Sources for the Pickleball vs Tennis participation chart: 
+Sources for the Pickleball vs Tennis participation chart
+
+
 https://www.statista.com/statistics/763659/pickleball-participants-us/
 https://www.statista.com/statistics/191966/participants-in-tennis-in-the-us-since-2006/
 
-Sources for Pickleball Court Locations: 
+Sources for Pickleball Court Locations
+
 https://www.pickleheads.com/courts/us
 
-Sites and Threads on the best things about pickleball:
+Sites and Threads on the best things about pickleball
+
+
 https://blog.silverandfit.com/10-reasons-why-everyone-is-falling-in-love-with-pickleball
 https://pickleballadventure.com/why-is-pickleball-popular/
 https://www.reddit.com/r/Pickleball/comments/13ornd8/trying_to_figure_out_why_pickleball_is_so_popular/?sort=top
@@ -41,7 +48,9 @@ https://time.com/6209400/is-pickleball-good-exercise-seniors/
 https://www.verywellfit.com/why-is-pickleball-so-popular-7498627#:~:text=Pickleball%20is%20relatively%20approachable%20and,for%20those%20cross-training%20days.
 https://mitchdunn.medium.com/no-really-why-is-pickleball-so-popular-5a479966b1
 
-Sites and Threads on the reasons why people dislike pickleball:
+Sites and Threads on the reasons why people dislike pickleball
+
+
 https://www.reddit.com/r/10s/comments/x91m20/is_pickleball_really_such_a_terrible_and_annoying/
 https://www.reddit.com/r/Pickleball/comments/ly51ut/why_do_some_tennis_players_hate_us/
 https://www.gq.com/story/why-everyone-hates-pickleball
@@ -54,6 +63,7 @@ https://pickleballdatabase.com/why-do-tennis-players-hate-pickleball/
 https://www.axios.com/2023/04/07/pickleball-courts-noise-tennis-turf-wars
 
 General Pickleball References and Information
+
 https://en.wikipedia.org/wiki/Pickleball
 https://usapickleball.org/wp-content/uploads/2021/08/2022-Pickleball-Fact-Sheet-updated-5.5.22.pdf
 https://www.cnbc.com/2023/01/05/pickleball-popularity-explodes-with-more-than-36-million-playing.html
