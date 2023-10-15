@@ -22,7 +22,7 @@ As mentioned above, my intended primary audience changed slightly form Part II t
 
 ## References
 
-__Source for the Pickleball Participation Chart__ 
+Source for the Pickleball Participation Chart
 https://www.pickleheads.com/blog/pickleball-statistics
 
 Sources for the Pickleball vs Tennis participation chart: 
@@ -53,6 +53,13 @@ https://www.reddit.com/r/Pickleball/comments/14tce08/why_do_a_lot_of_tennis_play
 https://pickleballdatabase.com/why-do-tennis-players-hate-pickleball/
 https://www.axios.com/2023/04/07/pickleball-courts-noise-tennis-turf-wars
 
+General Pickleball References and Information
+https://en.wikipedia.org/wiki/Pickleball
+https://usapickleball.org/wp-content/uploads/2021/08/2022-Pickleball-Fact-Sheet-updated-5.5.22.pdf
+https://www.cnbc.com/2023/01/05/pickleball-popularity-explodes-with-more-than-36-million-playing.html
+https://www.usapickleball.org/docs/USA-Pickleball-Fact-Sheet-2023.pdf
+https://market.us/report/pickleball-market/
+https://thepickleballdinks.com/post/pickleball-statistics
 
 ## Final Thoughts
 
