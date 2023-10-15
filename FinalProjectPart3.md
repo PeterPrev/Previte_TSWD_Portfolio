@@ -18,7 +18,7 @@ As mentioned above, my intended primary audience changed slightly form Part II t
 
 ## References
 
-Source for the Pickleball participation chart: 
+_Source for the Pickleball participation chart_
 https://www.pickleheads.com/blog/pickleball-statistics
 
 Sources for the Pickleball vs Tennis participation chart: 
