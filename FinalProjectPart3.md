@@ -7,6 +7,9 @@ Click [here](https://carnegiemellon.shorthandstories.com/all-about-pickleball/in
 
 [https://carnegiemellon.shorthandstories.com/all-about-pickleball/index.html](https://carnegiemellon.shorthandstories.com/all-about-pickleball/index.html)
 
+### Summary
+
+My data story is focused on pickleball! I personally am a big fan of pickleball and think it's a great activity for people of all ages and skill/experience levels. It's easy to learn for beginners and fun competition for advanced players. My goal with this data story was to introduce pickleball to those who are not familiar with the sport and encourage the reader to get involved with their local pickleball community. Because I was tailoring my story to people who don't know much about pickleball (more on that below), I tried to keep the information presented relatively simple and straightforward. I focused on metrics related to pickleball participation to tell a story about how quickly pickleball has grown across the US and tried to hint at some of the reasons why. 
 
 ## Changes Made Since Part II
 
