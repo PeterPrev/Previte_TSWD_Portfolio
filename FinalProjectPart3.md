@@ -1,10 +1,22 @@
 # Final Project Part 3
 
+## The Final Data Story
 
+Click [here](https://carnegiemellon.shorthandstories.com/all-about-pickleball/index.html) or the link below to view my final data story on Shorthand: 
 
+https://carnegiemellon.shorthandstories.com/all-about-pickleball/index.html
 
+## Changes Made Since Part II
 
-### Sources
+There were a few primary changes I made to my final data story after part II. The first change was in regards to the audience. I ultimately decided to change my primary audience to only one group of peole as opposed to two. More on this below in the "Audience" section. Next, I made adjustments to some of the charts in my story, specifically the pie charts. Initially, I had the majority of my charts as bar charts and some of my user feedback was that the charts seemed repetitive. Due to the nature of these two pieces of data, I felt that a pie chart would add some variety to the charts in the story while still providing a clear picture on the data. The data in these charts are loose estimations of percentages so I was able to still fit the data into a pie chart format. 
+
+Another change I made was in terms of the format of my story. I changed the structure of my story on Shorthand to be more "broken down" by section. My previous story had less introduction and descriptions of the charts I was using to convey my points. For the story, I made a distinct introduction with my audience in mind, then had shorter sections with headers that more clearly explained what the next few paragraphs would be about. I felt that changing the structure in this way helped the clarity of my story and made the flow smoother for my intended audience, those unfamiliar with pickleball. 
+
+## Audience
+
+As mentioned above, my intended primary audience changed slightly form Part II to Part III. Originally, I planned to have two primary audiences: the first was group of people was individuals completely unfamiliar with pickleball, and the second group was people who currently regularly play pickleball and enjoy the sport. As I did my user research and worked on creating my final story, I realized that my story would be much stronger if it were intended only for people unfamiliar with pickleball. This decision was driven by the fact that the majority of the content in my story would be trivial and uninteresting for individuals already familiar with and interested in pickleball. With this new group as my primary audience, I still tried to keep the story somewhat relevant for people who already play pickleball. 
+
+### References
 
 Sites and Threads on the best things about pickleball:
 https://blog.silverandfit.com/10-reasons-why-everyone-is-falling-in-love-with-pickleball
